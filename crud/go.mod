@@ -1,4 +1,4 @@
-module todo_module
+module crud
 
 go 1.16
 
